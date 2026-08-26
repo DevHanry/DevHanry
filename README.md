@@ -1,30 +1,66 @@
-# Olá, eu sou o Hanry! 👋
+# Olá 👋, eu sou o Hanry
 
-### Desenvolvedor de Software Júnior
+🚀 **Desenvolvedor de Software Júnior**  
+🇧🇷 Brasil
 
 Sou um desenvolvedor apaixonado por construir soluções eficientes, aprender novas tecnologias e resolver problemas. Busco sempre aprimorar minhas habilidades, escrevendo código limpo e contribuindo para projetos impactantes.
 
-## 🚀 Habilidades & Tecnologias
+---
 
-Aqui estão algumas das ferramentas e linguagens com as quais trabalho:
+## 🌐 Onde me encontrar
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="left">
+  <a href="https://github.com/SEU_USUARIO_DO_GITHUB">
+    <img src="https://img.shields.io/badge/GitHub-SEU_USUARIO-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://linkedin.com/in/SEU_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-MEU_PERFIL-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:seu_email@exemplo.com">
+    <img src="https://img.shields.io/badge/Email-CONTATO-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🧠 O que eu faço
+
+-   🏗️ Desenvolvimento de sistemas web e APIs
+-   ⚡ Foco em soluções eficientes e de boa performance
+-   🧩 Escrita de código limpo e bem estruturado
+-   🔐 Integração segura com bancos de dados relacionais e NoSQL
+-   🎓 Aprendizado contínuo de novas tecnologias e boas práticas
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+### Linguagens
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### Banco de Dados
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
 
 ## 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_DO_GITHUB&show_icons=true&theme=dracula&hide_border=true" alt="Estatísticas do Hanry" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_DO_GITHUB&layout=compact&theme=dracula&hide_border=true" alt="Linguagens mais usadas" height="150"/>
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_DO_GITHUB&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_DO_GITHUB&layout=compact&theme=tokyonight" />
 </p>
 
-## 📫 Como me encontrar
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanry-de-sousa/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hanrydsousa29@gmail.com)
+## 🚀 Filosofia
+
+> _"Código não é apenas sobre resolver problemas.  
+> É sobre construir soluções que escalam, duram e geram valor real."_
 
 ---
-⭐️ *Sinta-se à vontade para explorar meus repositórios abaixo!*
+
+⭐ Se gostar do meu trabalho, considere deixar uma estrela nos meus repositórios!  
+🤝 Sempre aberto a colaborações, parcerias e ideias legais.
