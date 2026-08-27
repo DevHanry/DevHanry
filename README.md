@@ -14,10 +14,10 @@ Sou um desenvolvedor apaixonado por construir soluções eficientes, aprender no
     <img src="https://img.shields.io/badge/GitHub-DevHanry-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://linkedin.com/in/hanry-de-sousa">
-    <img src="https://img.shields.io/badge/LinkedIn-MEU_PERFIL-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Hanry_de_Sousa-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:hanrydsousa29@gmail.com">
-    <img src="https://img.shields.io/badge/Email-CONTATO-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-hanrydsousa29@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -49,8 +49,8 @@ Sou um desenvolvedor apaixonado por construir soluções eficientes, aprender no
 ## 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_DO_GITHUB&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_DO_GITHUB&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DevHanry&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevHanry&layout=compact&theme=tokyonight" />
 </p>
 
 ---
