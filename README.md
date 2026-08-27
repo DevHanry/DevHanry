@@ -10,7 +10,7 @@ Sou um desenvolvedor apaixonado por construir soluções eficientes, aprender no
 ## 🌐 Onde me encontrar
 
 <p align="left">
-  <a href="https://github.com/SEU_USUARIO_DO_GITHUB">
+  <a href="https://github.com/SEU_USUARIO_DO_GITHUB](https://github.com/DevHanry">
     <img src="https://img.shields.io/badge/GitHub-SEU_USUARIO-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://linkedin.com/in/SEU_LINKEDIN">
