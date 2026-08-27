@@ -10,13 +10,13 @@ Sou um desenvolvedor apaixonado por construir soluções eficientes, aprender no
 ## 🌐 Onde me encontrar
 
 <p align="left">
-  <a href="https://github.com/SEU_USUARIO_DO_GITHUB](https://github.com/DevHanry">
-    <img src="https://img.shields.io/badge/GitHub-SEU_USUARIO-181717?style=for-the-badge&logo=github" />
+  <a href="https://github.com/DevHanry">
+    <img src="https://img.shields.io/badge/GitHub-DevHanry-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://linkedin.com/in/SEU_LINKEDIN">
+  <a href="https://linkedin.com/in/hanry-de-sousa">
     <img src="https://img.shields.io/badge/LinkedIn-MEU_PERFIL-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:seu_email@exemplo.com">
+  <a href="mailto:hanrydsousa29@gmail.com">
     <img src="https://img.shields.io/badge/Email-CONTATO-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
