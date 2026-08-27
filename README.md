@@ -57,8 +57,7 @@ Sou um desenvolvedor apaixonado por construir soluções eficientes, aprender no
 
 ## 🚀 Filosofia
 
-> _"Código não é apenas sobre resolver problemas.  
-> É sobre construir soluções que escalam, duram e geram valor real."_
+> _"Acredito que a programação é uma jornada de aprendizado contínuo. Meu foco é evoluir um pouco todos os dias, transformando desafios em conhecimento e escrevendo códigos cada vez melhores."_
 
 ---
 
