@@ -48,8 +48,8 @@ Sou um desenvolvedor apaixonado por construir soluções eficientes, aprender no
 ## 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DevHanry&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevHanry&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DevHanry&show_icons=true&theme=tokyonight&locale=pt-br" alt="Estatísticas do GitHub" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevHanry&layout=compact&theme=tokyonight&locale=pt-br" alt="Linguagens mais utilizadas" />
 </p>
 
 ## 🚀 Filosofia
